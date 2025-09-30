@@ -1,0 +1,21 @@
+
+body {
+    text-align: center;
+    background-color: lightcyan;
+}
+
+h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: lightsalmon;
+}
+
+#tech{
+    font-size:xx-large;
+    color: gold;
+    background-color: darkorchid;
+}
+#skllbl{
+    font-size: larger;
+    font-weight:1000;
+}
